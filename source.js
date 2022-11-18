@@ -180,3 +180,4 @@ font-size:40px;
           modal.remove();
         }, 20000);
       }
+downloader()
