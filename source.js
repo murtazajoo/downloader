@@ -100,6 +100,16 @@ font-size:40px;
   <div class="links" id="link-holder">
   
     </div>
+    <script type="text/javascript">
+	atOptions = {
+		'key' : 'aa783462003f9754c35b296f6a4cbf31',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplayformat.com/aa783462003f9754c35b296f6a4cbf31/invoke.js"></scr' + 'ipt>');
+</script>
     <small id="owner">&copy; Murtaza JOO</small>
             </div>
             </div>`;
